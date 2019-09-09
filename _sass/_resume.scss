@@ -29,6 +29,16 @@
     display: block;
   }
 
+  .image-center {
+    width: 150px;
+    max-width: 50%;
+    overflow: hidden;
+    @include border-radius(100px);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
   .header-name {
     @include sans;
     font-size: 3rem;
