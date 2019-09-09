@@ -8,10 +8,8 @@
   url: "https://arxiv.org/abs/1701.04343"
   description: New framworks to reduce the convection dominated flows are developed
 
-# jazznotes.io
 - project: Back-facing step flow and its interaction with laminar–turbulent transition
   role: Graduate Research Assistant
-  duration: 2011
+  duration: 2011 &mdash; 2011
   url: "https://www.researchgate.net/publication/260402683_Transitional_CFD_Investigation_of_Stepped_Airfoil"
-  description: Computationally proved the advantages of back-facing step flow on
-aerodynamic efficiency of an airfoil in transitional regime
+  description: Computationally proved the advantages of back-facing step flow on aerodynamic efficiency of an airfoil in transitional regime
