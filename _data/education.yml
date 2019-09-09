@@ -6,16 +6,19 @@
     - award: Computational Science and Engineering Fellow
     - award: Graduate College Conference Travel Award
     - award: Mentor at SLOAN University Center of Exemplary Mentoring at Illinois
-#  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: Model Order Reduction of convection dominated flow, Stabilization of time-varying projection based reduced order models
 
 - degree: MSc., Aerospace Engineering
   uni: Amirkabir University of Technology (AUT), Tehran, Iran
   year: 2011 &mdash; 2013
-#  award: Most likely to succeed
-#  summary: You can choose to have either a single or multiple awards
+  award:
+    - award:   Scholarship for graduates studies at AUT, Tehran, Iran
+  summary: Analysis of low-Reynolds number flapping wings
 
 - degree: B.Sc., Aerospace Engineering
   uni: Amirkabir University of Technology (AUT), Tehran, Iran
   year: 2007 &mdash; 2011
-#  award: Most likely to succeed
-#  summary: You can choose to have either a single or multiple awards
+  award:
+    - award:  Distinguished B.Sc Dissertation in Aerospace awarded by Iranian Aerospace Society
+    - award:  Top 5% class of 2011
+  summary: Aerodyamancs of low-Reynolds number wings with signigicant laminar to turbulent transition
