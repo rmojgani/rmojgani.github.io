@@ -2,7 +2,7 @@
 
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-![img](images/screenshot.png)
+#![img](images/screenshot.png)
 
 ## Docs
 
@@ -10,6 +10,7 @@
 
 To test locally, run the following in your terminal:
 
+0. Intsall all from https://jekyllrb.com/docs/installation/ubuntu/
 1. Clone repo locally
 1. `bundle install`
 2. `bundle exec jekyll serve`
