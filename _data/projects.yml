@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Model Order Reudction of Convection-dominated flows
+- project: Model Order Reudction of convection-dominated flows
   role: Research Assitant (PhD thesis)
   duration: 2015 &mdash; Present
   url: "https://arxiv.org/abs/1701.04343"
-  description: A new framwork to reduce the convection dominated flows is developed.
+  description: New framworks to reduce the convection dominated flows are developed
 
 # Springfield Community Outreach Group
 #- project: Springfield Community Outreach Group
