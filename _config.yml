@@ -1,5 +1,5 @@
 # Site settings
-title: "Rambod Mojgani online CV"
+title: "Rambod Mojgani| CV"
 description: "|..."
 
 # Build settings
@@ -21,10 +21,10 @@ resume_contact_email:           "mojgani2[can we beat the crawlers]illinois.edu"
 resume_contact_address:         "104 S Wright St
 				Urbana, IL-61801"
 
-#resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-#display_header_contact_info:    "false"
+resume_header_contact_info:     "104 S Wright St, Urbana, IL-61801 • mojgani2[can we beat crawlers]illinois.edu"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Well, there we go</p>"
+resume_header_intro: "<p> Links to my other profiles above, also you can contact me below </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
