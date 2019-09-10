@@ -39,6 +39,10 @@
     display: block;
   }
 
+  .responsive {
+   width: 50%;
+   height: auto;
+  }
   .header-name {
     @include sans;
     font-size: 3rem;
