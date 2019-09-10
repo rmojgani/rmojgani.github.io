@@ -9,6 +9,13 @@
   description: New framworks to reduce the convection dominated flows are developed
   image_name: "images/projects/config03_1500x1500.png"
 
+- project: Aerodynamics low-speed flapping wings
+  role: Research Assistant
+  duration: 2011 &mdash; 2013
+  # url: ""
+  description: Computationally studied the aerodynamics hover and forward flight of a low-speed flapping wing
+  image_name: "images/placeholder.png"
+
 - project: Back-facing step flow in laminar–turbulent transition regime
   role: Graduate Research Assistant
   duration: 2011
