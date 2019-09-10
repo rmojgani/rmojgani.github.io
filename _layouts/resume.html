@@ -107,13 +107,9 @@
         {% for project in site.data.projects %}
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-          <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
-          <p class="resume-item-copy">{{ project.description }}</p>
-          <!--<img src="images/placeholder.png" alt="my photo" class="avatar no-print" itemprop="image"> -->
-          <!--<img src="images/projects/config03_1500x1500.png" alt="Riemann" class="image-center no-print" itemprop="image"        
-			margin-left="auto"
-			margin-right="auto"> -->
+          <h3  class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
+          <h4  class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <p   class="resume-item-copy">{{ project.description }}</p>
           <img src={{ project.image_name }} alt="project_image" class="image-center no-print" itemprop="image" >
         </div>
         {% endfor %}
