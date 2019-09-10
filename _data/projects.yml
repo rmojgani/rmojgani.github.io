@@ -13,7 +13,7 @@
   role: Personal project
   duration: 2017
   # url: "https://www.researchgate.net/publication/260402683_Transitional_CFD_Investigation_of_Stepped_Airfoil"
-  description: Implemented an arbitrage bot using GDAX (currently Coinbase Pro) Python API and deployed it on Amazon Web Servers (AWS). Good old times before complications of tax reform
+  description: Implemented an arbitrage bot using GDAX (currently Coinbase Pro) Python API and deployed it on Amazon Web Services (AWS) servers. Good old times before complications of tax reform
   image_name: "images/placeholder.png"
 
 - project: Aerodynamics of low-speed flapping wings
