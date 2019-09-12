@@ -10,7 +10,7 @@
   duration: 2019 &mdash; Present
   # url: "https://arxiv.org/abs/1701.04343"
   description: A new approach to stabilize time-varying ROMs is developed based on an optimal modification of the point-wise system matrices
-  image_path: "images/stabilizeROM.jpg"
+  image_path: "images/projects/stabilizeROM.jpg"
   image_name: "stabilize_ROM"
 
 - project: Model Order Reudction of convection-dominated flows
