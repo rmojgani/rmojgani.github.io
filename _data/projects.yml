@@ -1,5 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+# Note: for image name, there should be no spaces, use underscore instead
 
 # jazznotes.io
 - project: Model Order Reudction of convection-dominated flows
@@ -8,7 +9,7 @@
   url: "https://arxiv.org/abs/1701.04343"
   description: New framworks to reduce the convection dominated flows are developed
   image_path: "images/projects/config12.png"
-  image_name: "2D Riemann"
+  image_name: "2D_Riemann"
 
 - project: Cryptocurrency arbitrage bot
   role: Personal project
@@ -24,7 +25,7 @@
   # url: ""
   description: Computationally studied the aerodynamics of hover and forward flight of a low-speed flapping wing
   image_path: "images/projects/flapping_wing.png"
-  image_name: "flapping wing path"
+  image_name: "flapping_wing_path"
 
 - project: Back-facing step flow in laminar–turbulent transition regime
   role: Graduate Research Assistant
@@ -32,4 +33,4 @@
   url: "https://www.researchgate.net/publication/260402683_Transitional_CFD_Investigation_of_Stepped_Airfoil"
   description: Computationally proved the advantages of back-facing step flow on aerodynamic efficiency of an airfoil in transitional regime
   image_path: "images/projects/airfoil_step.png"
-  image_name: "step airfoil"
+  image_name: "step_airfoil"
