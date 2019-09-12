@@ -24,10 +24,10 @@
 - project: Cryptocurrency arbitrage bot
   role: Personal project
   duration: 2017
-  # url: "https://www.researchgate.net/publication/260402683_Transitional_CFD_Investigation_of_Stepped_Airfoil"
+  # url: "https://"
   description: Implemented an arbitrage bot using GDAX (currently Coinbase Pro) Python API and deployed it on Amazon Web Services (AWS) servers. Good old times before complications of tax reform
-  image_path: "images/placeholder.png"
-  image_name: "placeholder"
+  image_path: "images/projects/cryptobot.png"
+  image_name: "crypto_bot"
 
 - project: Aerodynamics of low-speed flapping wings
   role: Research Assistant
