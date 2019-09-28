@@ -6,7 +6,7 @@
 # jazznotes.io
 
 - project: Stabilization of time-varying reduced order models
-  role: Research Assitant (PhD thesis)
+  role: Research Assistant (PhD thesis)
   duration: 2019 &mdash; Present
   # url: "https://arxiv.org/abs/1701.04343"
   description: A new approach to stabilize time-varying ROMs is developed based on an optimal modification of the point-wise system matrices
@@ -14,7 +14,7 @@
   image_name: "stabilize_ROM"
 
 - project: Model Order Reudction of convection-dominated flows
-  role: Research Assitant (PhD thesis)
+  role: Research Assistant (PhD thesis)
   duration: 2015 &mdash; Present
   url: "https://arxiv.org/abs/1701.04343"
   description: New framworks to reduce the convection dominated flows are developed
