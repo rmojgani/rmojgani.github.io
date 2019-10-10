@@ -17,7 +17,7 @@
   role: Research Assistant (PhD thesis)
   duration: 2015 &mdash; Present
   url: "https://arxiv.org/abs/1701.04343"
-  description: A novel framework to reduce the convection dominated flows is developed. An image-registeration-like approach is developed to learn an optimal manifold and the governing partial differential equations are projected and solved on this realized manifold.
+  description: A novel framework to reduce the convection dominated flows is developed. An image-registeration-like approach is developed to learn an optimal manifold and the governing partial differential equations are projected and solved on this realized manifold
   image_path: "images/projects/config12.png"
   image_name: "2D_Riemann"
 
