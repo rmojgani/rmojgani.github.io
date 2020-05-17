@@ -21,11 +21,11 @@
   image_path: "images/projects/wave.png"
   image_name: "Maniold_ROM_wave"
 
-- project: Cryptocurrency arbitrage bot
+- project: Cryptocurrency high-frequency arbitrage bot
   role: Personal project
   duration: 2017
   # url: "https://"
-  description: Implemented an arbitrage bot using GDAX (currently Coinbase Pro) Python API and deployed it on Amazon Web Services (AWS) servers. Good old times before complications of tax reform
+  description: Implemented a high-frequency arbitrage bot on GDAX (currently Coinbase Pro) Python API and deployed it on Amazon Web Services (AWS) servers. Good old times before complications of tax codes
   image_path: "images/projects/cryptobot.jpg"
   image_name: "crypto_bot"
 
