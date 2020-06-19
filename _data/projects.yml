@@ -5,14 +5,6 @@
 
 # jazznotes.io
 
-- project: Stabilization of time-varying reduced order models
-  role: Research Assistant (PhD thesis)
-  duration: 2019 &mdash; Present
-  # url: "https://arxiv.org/abs/1701.04343"
-  description: A new approach to stabilize time-varying ROMs is developed based on an optimal modification of the point-wise system matrices
-  image_path: "images/projects/stabilized.png"
-  image_name: "stabilize_LTV_ROM"
-
 - project: Model Order Reduction of convection-dominated flows
   role: Research Assistant (PhD thesis)
   duration: 2015 &mdash; Present
@@ -20,6 +12,14 @@
   description: A novel framework to reduce the convection dominated flows is developed. An image-registration-like approach is developed to learn an optimal manifold and the governing partial differential equations are projected and solved on this realized manifold
   image_path: "images/projects/manifold.png"
   image_name: "physics_aware_manifold_learning"
+
+- project: Stabilization of time-varying reduced order models
+  role: Research Assistant (PhD thesis)
+  duration: 2019 &mdash; Present
+  # url: "https://arxiv.org/abs/1701.04343"
+  description: A new approach to stabilize time-varying ROMs is developed based on an optimal modification of the point-wise system matrices
+  image_path: "images/projects/stabilized.png"
+  image_name: "stabilize_LTV_ROM"
 
 - project: Cryptocurrency high-frequency arbitrage bot
   role: Personal project
