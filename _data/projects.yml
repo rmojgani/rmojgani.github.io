@@ -19,7 +19,7 @@
   url: "https://arxiv.org/abs/1701.04343"
   description: A novel framework to reduce the convection dominated flows is developed. An image-registration-like approach is developed to learn an optimal manifold and the governing partial differential equations are projected and solved on this realized manifold
   image_path: "images/projects/wave.png"
-  image_name: "Maniold_ROM_wave"
+  image_name: "manifold"
 
 - project: Cryptocurrency high-frequency arbitrage bot
   role: Personal project
