@@ -4,18 +4,25 @@
 # Placeholder is required in case of absence of the proper image
 
 # jazznotes.io
-
+- project: Model error discovery
+  role: Postdoctoral Research Associate
+  duration: 2020 &mdash; present
+  #url: "https://arxiv.org/abs/1701.04343"
+  description: A regression-type algorithm is used to discover the missing terms of a surrogate model from the observations of the corresponding high-dimensional system
+  #image_path: "images/projects/manifold.png"
+  #image_name: "physics_aware_manifold_learning"
+  
 - project: Model Order Reduction of convection-dominated flows
   role: Research Assistant (PhD thesis)
-  duration: 2015 &mdash; Present
-  url: "https://arxiv.org/abs/1701.04343"
+  duration: 2015 &mdash; 2020
+  url: "https://github.com/rmojgani/PhysicsAwareAE"
   description: A novel framework to reduce the convection dominated flows is developed. An image-registration-like approach is developed to learn an optimal manifold and the governing partial differential equations are projected and solved on this realized manifold
   image_path: "images/projects/manifold.png"
   image_name: "physics_aware_manifold_learning"
 
 - project: Stabilization of time-varying reduced order models
   role: Research Assistant (PhD thesis)
-  duration: 2019 &mdash; Present
+  duration: 2019 &mdash; 2020
   url: "https://doi.org/10.1002/nme.6489"
   description: A new approach to stabilize time-varying ROMs is developed based on an optimal modification of the point-wise system matrices
   image_path: "images/projects/stabilized.png"
