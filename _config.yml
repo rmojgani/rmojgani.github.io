@@ -47,7 +47,7 @@ resume_section_interests:       false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/rmojgani"
-#  resume_twitter_url:           "http://twitter.com/jglovier" 
+  resume_twitter_url:           "http://twitter.com/rmojgani1" 
 #  resume_dribbble_url:          "https://scholar.google.com/citations?user=AWF32UEAAAAJ&hl=en&oi=ao" # Faking google scholar
 #  # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/rmojgani"
