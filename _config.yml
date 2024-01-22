@@ -14,7 +14,7 @@ resume_name:                    "Rambod Mojgani"
 resume_title:                   "Postdoctoral Research Associate at Rice University"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "rm99[we can beat the crawlers]rice.edu"
+resume_contact_email:           "rm99[we can beat the crawlers]uchicago.edu"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 #resume_contact_telephone:       "555-7334"
