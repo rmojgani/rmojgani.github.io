@@ -13,6 +13,7 @@ To test locally, run the following in your terminal:
 0. Intsall all from https://jekyllrb.com/docs/installation/ubuntu/
 1. Clone repo locally
 1. `bundle install`
+1.1 `bundle add webrick`
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
 
