@@ -61,7 +61,8 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
-gems:
+  #gems:
+plugins:
   - jekyll-seo-tag
 
 # Note: when editing locally, remember to restart
