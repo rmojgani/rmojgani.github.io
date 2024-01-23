@@ -1,21 +1,20 @@
 # Jobs
 # Recent
 - company: The University of Chicago
-  position: Postdoctoral Scholar at the University of Chicago
-  duration: Jan., 2024 &mdash; Present
-    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-- company: The University of Chicago
   position: Postdoctoral Scholar
   duration: Jan., 2024 &mdash; Present
-    #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points     <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: 
+    #Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points     <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 - company: Rice University
   position: Postdoctoral Research Associate
   duration: Oct., 2020 &mdash; Dec., 2023
     #summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points     <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-    Postdoctoral Research Associate at Rice University
+- company: University of Illinois at Urbana-Champaign
+  position: Graduate Research Assistant
+  duration: Aug., 2015 &mdash; Aug., 2020
+
 # Director of Digital Stratgy
 #- company: United Nations Human Rights Council
 #  position: Director of Digital Strategy
