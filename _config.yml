@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Rambod Mojgani"
-resume_title:                   "Postdoctoral Scholar at the University of Chicago" #Postdoctoral Research Associate at Rice University"
+resume_title:                   "Machine Learning Research Engineer at RTX Corporation" #Postdoctoral Scholar at the University of Chicago" #Postdoctoral Research Associate at Rice University"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "rm99[we can beat the crawlers]uchicago.edu"
