@@ -1,10 +1,40 @@
-<svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve">
-<path id="Twitter" fill="#D1CECC" d="M14,0C6.27,0,0,6.27,0,14s6.27,14,14,14s14-6.27,14-14S21.73,0,14,0z M20.69,10.57
-	c0.01,0.15,0.01,0.3,0.01,0.45c0,4.56-3.47,9.82-9.82,9.82c-1.95,0-3.76-0.57-5.29-1.55c0.27,0.03,0.54,0.05,0.82,0.05
-	c1.62,0,3.11-0.55,4.29-1.48c-1.51-0.03-2.79-1.03-3.23-2.4c0.21,0.04,0.43,0.06,0.65,0.06c0.31,0,0.62-0.04,0.91-0.12
-	c-1.58-0.32-2.77-1.71-2.77-3.39c0-0.01,0-0.03,0-0.04c0.47,0.26,1,0.41,1.56,0.43c-0.93-0.62-1.54-1.68-1.54-2.87
-	c0-0.63,0.17-1.23,0.47-1.74c1.7,2.09,4.25,3.46,7.12,3.61c-0.06-0.25-0.09-0.52-0.09-0.79c0-1.91,1.55-3.45,3.45-3.45
-	c0.99,0,1.89,0.42,2.52,1.09c0.79-0.15,1.53-0.44,2.19-0.84c-0.26,0.81-0.81,1.48-1.52,1.91c0.7-0.08,1.36-0.27,1.98-0.54
-	C21.95,9.47,21.37,10.08,20.69,10.57z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="icon"
+   x="0px"
+   y="0px"
+   viewBox="0 0 28 28"
+   enable-background="new 0 0 28 28"
+   xml:space="preserve"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="a.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="9.2428571"
+   inkscape:cx="84.984544"
+   inkscape:cy="63.400309"
+   inkscape:window-width="2490"
+   inkscape:window-height="1536"
+   inkscape:window-x="70"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1" />
+<path
+   id="X.com"
+   fill="#d1cecc"
+   d="M 14,0 V 0 C 6.2679556,0 0,6.2679556 0,14 v 0 c 0,7.732044 6.2679556,14 14,14 v 0 c 7.732044,0 14,-6.267956 14,-14 v 0 C 28,6.2679556 21.732044,0 14,0 Z m 3.432177,21.934577 -4.659821,-6.230621 -5.7673783,6.230621 H 5.5225333 L 12.11,14.818223 5.5639111,6.0654223 H 10.6092 l 4.291467,5.7381337 5.311289,-5.7381337 H 21.6944 l -6.131377,6.6241777 6.914444,9.244977 z"
+   style="stroke-width:0.311112" />
 </svg>
